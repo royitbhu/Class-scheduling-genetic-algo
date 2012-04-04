@@ -1,0 +1,15 @@
+The Class Scheduling Problem (CSP) is concerned with assigning a number 
+of courses corresponding to various students and instructors to classrooms 
+taking  into  consideration  constraints  like  classroom  capacities  and 
+university  regulations.  The  problem  also  attempts  to  optimize  the 
+performance  criteria  and  distribute  the  courses  fairly  to  classrooms 
+depending on the ratio of classroom capacities to course enrollments. The 
+problem  is  a  classical  scheduling  problem  and  considered  to  be  NP‐
+complete. It has received some research during the past few years given its 
+wide use in colleges and universities. Several formulations and algorithms 
+have been proposed to solve scheduling problems, most of which are based 
+on local search techniques.  
+In  this  project,  we  use  a  hybrid  algorithm  which  combines  features  of 
+Genetic  algorithm  and  Branch  and  Bound  algorithm  to  solve  the  class 
+scheduling problem. 
+

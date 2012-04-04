@@ -1,0 +1,27 @@
+courses
+Physics AP-1101 2 AppliedPhysics N
+Chemistry AC-1101 2 AppliedChemistry N
+Environment EVS-1101 2 Appliedchemistry N
+ProfessionCommunication PC-1101 2 Others N
+Math AM-1101 2 Appliedmath N
+Mech ME-1111 2 Mechanical N
+studentgroups
+IstCompSci CSE(Ist-Year) 45 AP-1101 AC-1101 ME-1111 EVS-1101 AM-1101 PC-1101
+IstElectronix ECE(Ist-Year) 42 AP-1101 AC-1101 ME-1111 EVS-1101 AM-1101 PC-1101
+IstElectrical ECL(Ist-Year) 40 AP-1101 AP-1101 AC-1101 ME-1111 EVS-1101 AM-1101 PC-1101
+IstCivil CIVIL(Ist-Year) 50 AP-1101 AC-1101 ME-1111 EVS-1101 AM-1101 PC-1101
+IstMeta META(Ist-Year) 45 AP-1101 AC-1101 ME-1111 EVS-1101 AM-1101 PC-1101
+instructors
+O.N.Singh L2 AP-1101
+A.Gupta GPT AM-1101
+AKT P3 AC-1101
+Panda PD PC-1101
+Tyagi TT EVS-1101
+SKS  L1 ME-1111
+classrooms
+F7 Electrical 60
+G11 Comp.Sci 40
+G7 Mechanical 50
+G8 Electronics 60
+F8 Electrical 60
+
